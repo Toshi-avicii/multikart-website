@@ -13,7 +13,7 @@ function SignUp() {
                         <h1 className='lg:text-[2vw] font-medium'>Create an account</h1>
                         <p className='text-sm'>
                             <span>Already have an account?</span>
-                            <Link href="/sign-in" className='underline mx-1'>Log In</Link>
+                            <Link href="/sign-in" className='underline mx-1'>Sign In</Link>
                         </p>
                     </div>
                     <div className='my-5'>
